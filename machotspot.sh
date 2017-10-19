@@ -8,7 +8,7 @@
 #then from host, adb push curl openssl /storage/sdcard0/
 #and finally from the android
 #cd /storage/sdcard0/ && su && cp curl openssl /system/bin/
-#created by Majes for majestikfortress.com
+#created by Majes for vpnwall.xyz
 
 # Hotspot connection
 screen -X -S hotspotdaemon quit
